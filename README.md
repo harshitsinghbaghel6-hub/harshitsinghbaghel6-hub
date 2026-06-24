@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Harshit Singh 👋
 
-<!--
-**harshitsinghbaghel6-hub/harshitsinghbaghel6-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech Engineering student specializing in the **Internet of Things (IoT)**, with a deep focus on **Data Science** and **Machine Learning** workflows. I design smart automation architectures that connect hardware telemetry with real-world data pipelines.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Stack & Frameworks
+- **Languages:** Python, Java
+- **Core Domains:** Internet of Things (IoT), Predictive Monitoring, Data Analysis
+- **Creative Workflows:** Advanced 4K Video Production & Search Engine Optimization (SEO)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Key Technical Projects
+- **IoT-Based Smart Irrigation System:** Automated agricultural framework leveraging environmental sensor data.
+- **Industrial Motor Monitoring & Management System:** Real-time predictive telemetry tracking for industrial machine health.
+- **Autonomous Prison Break Monitoring System:** Algorithmic pathfinding, rule-based decision trees, and tracking simulation.
+
+---
+📫 **Connect with me:** [My LinkedIn Profile](https://www.linkedin.com/in/harshit-singh-eng/)
