@@ -9,6 +9,10 @@ I am a B.Tech Engineering student specializing in the **Internet of Things (IoT)
 
 ## 🚀 Key Technical Projects
 - **IoT-Based Smart Irrigation System:** Automated agricultural framework leveraging environmental sensor data.
+- **IoT Sensor Dashboard: Real-time terminal dashboard with 7 sensors, 
+  SQLite pipeline, live alerts and sparkline charts built in Python.
+- **Password Generator: Cryptographically secure CLI tool with strength 
+  analysis, entropy scoring, passphrase mode and history tracking.
 - **Industrial Motor Monitoring & Management System:** Real-time predictive telemetry tracking for industrial machine health.
 - **Autonomous Prison Break Monitoring System:** Algorithmic pathfinding, rule-based decision trees, and tracking simulation.
 
