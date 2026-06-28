@@ -3,7 +3,7 @@
 I am a B.Tech Engineering student specializing in the **Internet of Things (IoT)**, with a deep focus on **Data Science** and **Machine Learning** workflows. I design smart automation architectures that connect hardware telemetry with real-world data pipelines.
 
 ## 🛠️ Technical Stack & Frameworks
-- **Languages:** Python, Java
+- **Languages:** Python, Java, C
 - **Core Domains:** Internet of Things (IoT), Predictive Monitoring, Data Analysis
 - **Creative Workflows:** Advanced 4K Video Production & Search Engine Optimization (SEO)
 
